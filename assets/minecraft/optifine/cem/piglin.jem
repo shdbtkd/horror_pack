@@ -27,6 +27,20 @@
 							]
 						}
 					]
+				},
+				{
+					"part": "rightEar",
+					"id": "rightEar",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"mirrorTexture": "u"
+				},
+				{
+					"part": "leftEar",
+					"id": "leftEar",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"mirrorTexture": "u"
 				}
 			]
 		}
