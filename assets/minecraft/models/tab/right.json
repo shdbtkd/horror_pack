@@ -1,0 +1,13 @@
+{
+	"parent": "tab/right_general",
+	"textures": {
+		"tab": "item/tab/test"
+	},
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [-67, -23, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

@@ -5,11 +5,57 @@
   },
 
   "overrides": [
-		{ 
-      "predicate": {
-        "custom_model_data": 1
-      },
-      "model": "tab/"
+		{
+      "predicate": { "custom_model_data": 0 },
+      "model": "tab/inven"
+    }, {
+      "predicate": { "custom_model_data": 1 },
+      "model": "tab/inven_active"
+    },
+
+
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "tab/start"
+    }, {
+      "predicate": { "custom_model_data": 11 },
+      "model": "tab/start_disabled"
+    },
+
+
+    {
+      "predicate": { "custom_model_data": 20 },
+      "model": "tab/save"
+    }, {
+      "predicate": { "custom_model_data": 21 },
+      "model": "tab/save_active"
+    }, {
+      "predicate": { "custom_model_data": 22 },
+      "model": "tab/save_disabled"
+    },
+
+
+    {
+      "predicate": { "custom_model_data": 30 },
+      "model": "tab/load"
+    }, {
+      "predicate": { "custom_model_data": 31 },
+      "model": "tab/load_active"
+    }, {
+      "predicate": { "custom_model_data": 32 },
+      "model": "tab/load_disabled"
+    },
+
+
+    {
+      "predicate": { "custom_model_data": 100 },
+      "model": "tab/right"
+    }, {
+      "predicate": { "custom_model_data": 101 },
+      "model": "tab/right"
+    }, {
+      "predicate": { "custom_model_data": 102 },
+      "model": "tab/right"
     }
 	]
 }
