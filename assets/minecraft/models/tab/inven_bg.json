@@ -1,0 +1,13 @@
+{
+	"parent": "tab/inven_bg_parent",
+	"textures": {
+		"tab": "item/tab/inven_bg"
+	},
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [-57, -23, 0],
+			"scale": [4.5, 4.5, 4.5]
+		}
+	}
+}

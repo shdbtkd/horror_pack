@@ -2,8 +2,8 @@
 	"gui_light": "front",
 	"elements": [
 		{
-			"from": [0, 0, 0],
-			"to": [16, 0, 16],
+			"from": [-16, 0, 0],
+			"to": [0, 0, 16],
 			"faces": {
 
 				"north": {"uv": [0, 0, 0, 0], "texture": "#tab"},
@@ -14,33 +14,22 @@
         "down": {"uv": [0, 0, 0, 0], "texture": "#tab"}
         
 			}
-    }, {
-			"from": [16, 0, 0],
-			"to": [32, 0, 16],
+    },
+
+    {
+			"from": [0, 0, 0],
+			"to": [32, 0, 14],
 			"faces": {
 
 				"north": {"uv": [0, 0, 0, 0], "texture": "#tab"},
         "east": {"uv": [0, 0, 0, 0], "texture": "#tab"},
         "south": {"uv": [0, 0, 0, 0], "texture": "#tab"},
         "west": {"uv": [0, 0, 0, 0], "texture": "#tab"},
-        "up": {"uv": [16, 0, 8, 8], "texture": "#tab"},
+        "up": {"uv": [0, 8, 16, 15], "texture": "#tab"},
         "down": {"uv": [0, 0, 0, 0], "texture": "#tab"}
         
 			}
-    }, {
-			"from": [0, 0, 16],
-			"to": [16, 0, 32],
-			"faces": {
-
-				"north": {"uv": [0, 0, 0, 0], "texture": "#tab"},
-        "east": {"uv": [0, 0, 0, 0], "texture": "#tab"},
-        "south": {"uv": [0, 0, 0, 0], "texture": "#tab"},
-        "west": {"uv": [0, 0, 0, 0], "texture": "#tab"},
-        "up": {"uv": [0, 16, 8, 8], "texture": "#tab"},
-        "down": {"uv": [0, 0, 0, 0], "texture": "#tab"}
-        
-			}
-		}
+    }
 	],
 	"display": {
 		"ground": {
