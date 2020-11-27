@@ -3,6 +3,7 @@
 	"textures": {
 		"tab": "item/tab/inven_bg"
 	},
+	
 	"display": {
 		"gui": {
 			"rotation": [90, 0, 0],

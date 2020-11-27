@@ -1,5 +1,6 @@
 {
 	"gui_light": "front",
+	
 	"elements": [
 		{
 			"from": [-16, 0, 0],
@@ -7,16 +8,16 @@
 			"faces": {
 
 				"north": {"uv": [0, 0, 0, 0], "texture": "#tab"},
-        "east": {"uv": [0, 0, 0, 0], "texture": "#tab"},
-        "south": {"uv": [0, 0, 0, 0], "texture": "#tab"},
-        "west": {"uv": [0, 0, 0, 0], "texture": "#tab"},
-        "up": {"uv": [0, 0, 8, 8], "texture": "#tab"},
-        "down": {"uv": [0, 0, 0, 0], "texture": "#tab"}
+				"east": {"uv": [0, 0, 0, 0], "texture": "#tab"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#tab"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#tab"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#tab"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#tab"}
         
 			}
-    },
+		},
 
-    {
+		{
 			"from": [0, 0, 0],
 			"to": [32, 0, 14],
 			"faces": {
