@@ -1,7 +1,7 @@
 {
-	"parent": "tab/inven_bg_parent",
+	"parent": "tab/bg_parent",
 	"textures": {
-		"tab": "item/tab/inven_bg"
+		"tab": "item/tab/bg"
 	},
 	
 	"display": {

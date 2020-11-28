@@ -40,7 +40,7 @@
 
     {
       "predicate": { "custom_model_data": 100 },
-      "model": "tab/inven_bg"
+      "model": "tab/bg"
     }
 	]
 }
