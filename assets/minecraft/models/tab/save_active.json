@@ -1,5 +1,5 @@
 {
-	"parent": "item/generated",
+	"parent": "tab/tab_active_parent",
 	"textures": {
 		"layer0": "item/tab/save_active"
 	},
@@ -7,11 +7,6 @@
 	"display": {
 		"ground": {
 			"scale": [0, 0, 0]
-		},
-		"gui": {
-			"rotation": [0, 0, 0],
-			"translation": [0, -0.9, 0],
-			"scale": [1.11, 1.18, 1]
 		}
 	}
 }
