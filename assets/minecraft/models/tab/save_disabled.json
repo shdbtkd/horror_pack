@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/tab/load"
+		"layer0": "item/tab/save_disabled"
 	},
 
 	"display": {
