@@ -1,7 +1,7 @@
 {
 	"parent": "tab/bg_parent",
 	"textures": {
-		"tab": "item/tab/bg"
+		"tab": "item/tab/bottom_bg"
 	},
 	
 	"display": {

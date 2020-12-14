@@ -40,6 +40,9 @@
 
     {
       "predicate": { "custom_model_data": 100 },
+      "model": "tab/bottom_bg"
+    }, {
+      "predicate": { "custom_model_data": 101 },
       "model": "tab/bg"
     }
 	]
