@@ -1,11 +1,15 @@
 {
   "providers": [
     {
-      "type": "bitmap",
-      "file": "ui:gui/space.png",
+      "type": "bitmap", "file": "ui:gui/space.png",
       "ascent": -1000,
       "height": 9,
       "chars": ["\ua000"]
+    }, {
+      "type": "bitmap", "file": "ui:character/space_chara.png",
+      "ascent": -1000,
+      "height": 4,
+      "chars": ["\ua001"]
     },
     
     {"type": "bitmap", "ascent": -26, "height": 9, "file": "ui:gui/stamina/0.png", "chars": ["\ue000"]},
@@ -86,6 +90,13 @@
     {"type": "bitmap", "ascent": -26, "height": 9, "file": "ui:gui/stamina/75.png", "chars": ["\ue075"]},
     {"type": "bitmap", "ascent": -26, "height": 9, "file": "ui:gui/stamina/76.png", "chars": ["\ue076"]},
     {"type": "bitmap", "ascent": -26, "height": 9, "file": "ui:gui/stamina/77.png", "chars": ["\ue077"]},
-    {"type": "bitmap", "ascent": -26, "height": 9, "file": "ui:gui/stamina/78.png", "chars": ["\ue078"]}
+    {"type": "bitmap", "ascent": -26, "height": 9, "file": "ui:gui/stamina/78.png", "chars": ["\ue078"]},
+
+    {
+      "type": "bitmap", "file": "ui:character/steve/basic.png",
+      "ascent": 3,
+      "height": 60,
+      "chars": ["\ua002"]
+    }
   ]
 }
