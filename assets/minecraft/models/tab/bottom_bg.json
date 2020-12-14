@@ -1,5 +1,5 @@
 {
-	"parent": "tab/bg_parent",
+	"parent": "tab/bottom_bg_parent",
 	"textures": {
 		"tab": "item/tab/bottom_bg"
 	},

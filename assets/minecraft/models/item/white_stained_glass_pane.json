@@ -36,14 +36,24 @@
       "predicate": { "custom_model_data": 22 },
       "model": "tab/load_disabled"
     },
-
+    
+    {
+      "predicate": { "custom_model_data": 30 },
+      "model": "tab/exit"
+    }, {
+      "predicate": { "custom_model_data": 30 },
+      "model": "tab/exit_active"
+    }, {
+      "predicate": { "custom_model_data": 30 },
+      "model": "tab/exit_disabled"
+    },
 
     {
       "predicate": { "custom_model_data": 100 },
       "model": "tab/bottom_bg"
     }, {
       "predicate": { "custom_model_data": 101 },
-      "model": "tab/bg"
+      "model": "tab/top_bg"
     }
 	]
 }

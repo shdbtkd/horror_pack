@@ -1,0 +1,25 @@
+{
+	"gui_light": "front",
+	
+	"elements": [
+		{
+			"from": [-2, 0, 0],
+			"to": [20, 0, 18],
+			"faces": {
+
+				"north": {"uv": [0, 0, 0, 0], "texture": "#tab"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#tab"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#tab"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#tab"},
+				"up": {"uv": [0, 0, 10.875, 9], "texture": "#tab"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#tab"}
+        
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

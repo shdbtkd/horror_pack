@@ -1,0 +1,14 @@
+{
+	"parent": "tab/top_bg_parent",
+	"textures": {
+		"tab": "item/tab/top_bg"
+	},
+	
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [-77, 53, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}
