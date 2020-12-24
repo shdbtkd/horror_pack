@@ -1,0 +1,14 @@
+{
+	"parent": "tab/craft_bg_parent",
+	"textures": {
+		"tab": "item/tab/craft_bg"
+	},
+
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [21, 55, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

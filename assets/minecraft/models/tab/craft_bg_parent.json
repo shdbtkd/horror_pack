@@ -3,15 +3,15 @@
 	
 	"elements": [
 		{
-			"from": [-1.93, 0, 0],
-			"to": [30.03, 0, 32],
+			"from": [0, 0, 0],
+			"to": [19, 0, 19],
 			"faces": {
 
 				"north": {"uv": [0, 0, 0, 0], "texture": "#tab"},
 				"east": {"uv": [0, 0, 0, 0], "texture": "#tab"},
 				"south": {"uv": [0, 0, 0, 0], "texture": "#tab"},
 				"west": {"uv": [0, 0, 0, 0], "texture": "#tab"},
-				"up": {"uv": [0, 0, 8, 8], "texture": "#tab"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#tab"},
 				"down": {"uv": [0, 0, 0, 0], "texture": "#tab"}
         
 			}

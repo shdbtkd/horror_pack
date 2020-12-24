@@ -54,6 +54,14 @@
     }, {
       "predicate": { "custom_model_data": 101 },
       "model": "tab/top_bg"
+    }, {
+      "predicate": { "custom_model_data": 102 },
+      "model": "tab/craft_bg"
+    },
+
+    {
+      "predicate": { "custom_model_data": 110 },
+      "model": "tab/msg/test"
     }
 	]
 }

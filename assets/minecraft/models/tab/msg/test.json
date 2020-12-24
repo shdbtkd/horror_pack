@@ -1,0 +1,6 @@
+{
+	"parent": "tab/msg/parent",
+	"textures": {
+		"tab": "item/tab/msg/test"
+	}
+}
